@@ -35,4 +35,3 @@ ribbon:
     client:
       service-url:
         default-zone:http://localhost:8761/eureka/
-    enabled: false
